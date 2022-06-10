@@ -1,3 +1,62 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.asstype-container{
+    background: #f1f2f5;
+}
+.banner-column{
+    background-color: #828082;
+}
+.navbar-container{
+    background: #102040;
+}
+.pesttype-container{
+    background: #4ABBBD;
+}
+.bg-redtype{
+    background: #F3847F;
+}
+
+.bg-redtype:hover{
+    color: #F3847F!important;
+    background: white;
+    border: 1px solid #F3847F!important;
+}
+.redtype-color{
+    color: #F3847F;
+}
+.circle{
+    background: #F3847F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.contact-container{
+    background: #404146;
+}
+.inner-from{
+    background: #909199;
+    color: black!important;
+}
+.form-control::placeholder{
+    color: #404146;
+    opacity: 1;
+}
+.footer{
+    background: black;
+}
+.social{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background: white;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+.social:hover{
+    background: #F3847F;
+    color: white;
+    border: 1px solid #ffffff!important;
+}
